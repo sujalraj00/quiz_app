@@ -1,16 +1,49 @@
-# quiz_app
+# Gamified Quiz App 🎮
 
-A new Flutter project.
+## Project Overview
+The **Gamified Quiz App** is a Flutter-based application designed to provide an interactive and engaging quiz experience. It features gamification elements, a responsive design, and integrates data from the provided API endpoint.
 
-## Getting Started
+### Features
+- **Start Quiz:** Begin a quiz with ease.
+- **Multiple-Choice Questions:** Interactive interface for answering questions.
+- **Results Summary:** A detailed summary of your quiz performance, including total points scored.
+- **Gamification Elements (Bonus):** Enhancements for an engaging user experience.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Demo 📸
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Screenshots
+- **Home Screen:**  
+  *(Add a screenshot of your home screen here, for example: `![Home Screen](path-to-image)`)*  
+- **Quiz in Progress:**  
+  *(Add a screenshot of the quiz question screen, for example: `![Quiz Screen](path-to-image)`)*  
+- **Result Screen:**  
+  *(Add a screenshot of the summary/result screen, for example: `![Result Screen](path-to-image)`)*  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Video Walkthrough
+[Click here to watch the walkthrough](#) *(Replace `#` with the actual link to your video on GitHub, YouTube, or any hosting platform)*
+
+---
+
+## API Integration 🔗
+The app fetches quiz data from the following API:  
+**Endpoint:** [https://api.jsonserve.com/Uw5CrX](https://api.jsonserve.com/Uw5CrX)  
+
+### Error Handling
+- Handles connection issues gracefully.  
+- Displays appropriate messages for data retrieval errors.  
+
+---
+
+## Setup Instructions 🚀
+
+### Prerequisites
+- Flutter SDK (version 3.10.0 or later)  
+- Dart SDK (version 2.19.0 or later)  
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone <repository-url>
+   cd <project-folder>
