@@ -26,7 +26,8 @@ The **Gamified Quiz App** is a Flutter-based application designed to provide an 
  https://drive.google.com/file/d/19k1bslxFVs4Z1zW_wzY328F6YKQpgJ3C/view 
 
 ### Video Walkthrough
-[Click here to watch the walkthrough](https://youtube.com/shorts/fOUjh-9X63o?si=UZdo3dtBSEou_NrB ) 
+[Click here to watch the video walkthrough: Video 1](https://youtube.com/shorts/fOUjh-9X63o?si=UZdo3dtBSEou_NrB ) ,
+[Click here to watch the video walkthrough: Video 2](https://youtu.be/31imi9d3ThU?si=dse-sunBa1JL-vsh )
 
 ---
 
