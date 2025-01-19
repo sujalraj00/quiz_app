@@ -8,7 +8,8 @@ import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:quiz_app/models/quiz_model.dart';
 
 class QuizService {
-  static String get apiUrl => dotenv.env['API_URL'] ?? '';
+  static String get apiUrl =>
+      dotenv.env['API_URL'] ?? 'https://api.jsonserve.com/Uw5CrX';
 
   Future<List<QuizQuestion>> fetchQuizQuestions(
       {bool bypassSSL = false}) async {
