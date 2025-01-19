@@ -17,13 +17,13 @@ The **Gamified Quiz App** is a Flutter-based application designed to provide an 
 - **App Icon:**
 - https://drive.google.com/file/d/19Uc-wwHMxZMy3t4WheCMojea9c8-Q21a/view
 - **Home Screen:**  
-  *(Add a screenshot of your home screen here, for example: `![Home Screen](https://drive.google.com/file/d/19YXfWVmh2IT73YoU8ncMc9fTXem_gyRL/view)`)*  
+  https://drive.google.com/file/d/19YXfWVmh2IT73YoU8ncMc9fTXem_gyRL/view  
 - **Quiz in Progress:**  
-  *(Add a screenshot of the quiz question screen, for example: `![Quiz Screen](https://drive.google.com/file/d/19Yw5q3zY2v770KzDkhnyJDccXTKdXVyO/view)`)*
-  *(Add a screenshot of the quiz question screen, for example: `![Quiz Screen](https://drive.google.com/file/d/19_MnNzrivuvlEW7_9Hd7mR1o2PATaxnE/view)`)*
-   *(Add a screenshot of the quiz question screen, for example: `![Quiz Screen](https://drive.google.com/file/d/19_MnNzrivuvlEW7_9Hd7mR1o2PATaxnE/view)`)*
+-  https://drive.google.com/file/d/19Yw5q3zY2v770KzDkhnyJDccXTKdXVyO/view,
+- https://drive.google.com/file/d/19_MnNzrivuvlEW7_9Hd7mR1o2PATaxnE/view,
+- https://drive.google.com/file/d/19_MnNzrivuvlEW7_9Hd7mR1o2PATaxnE/view,
 - **Result Screen:**  
-  *(Add a screenshot of the summary/result screen, for example: `![Result Screen](https://drive.google.com/file/d/19k1bslxFVs4Z1zW_wzY328F6YKQpgJ3C/view)`)*  
+ https://drive.google.com/file/d/19k1bslxFVs4Z1zW_wzY328F6YKQpgJ3C/view 
 
 ### Video Walkthrough
 [Click here to watch the walkthrough](https://youtube.com/shorts/fOUjh-9X63o?si=UZdo3dtBSEou_NrB ) 
